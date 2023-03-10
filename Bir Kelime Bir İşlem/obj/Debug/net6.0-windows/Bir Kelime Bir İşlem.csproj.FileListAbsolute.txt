@@ -1,0 +1,17 @@
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\net6.0-windows\Bir Kelime Bir İşlem.exe
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\net6.0-windows\Bir Kelime Bir İşlem.deps.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\net6.0-windows\Bir Kelime Bir İşlem.runtimeconfig.json
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\net6.0-windows\Bir Kelime Bir İşlem.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\bin\Debug\net6.0-windows\Bir Kelime Bir İşlem.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.csproj.AssemblyReference.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir_Kelime_Bir_İşlem.Form1.resources
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.csproj.GenerateResource.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.AssemblyInfoInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.AssemblyInfo.cs
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.csproj.CoreCompileInputs.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\refint\Bir Kelime Bir İşlem.dll
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.pdb
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\Bir Kelime Bir İşlem.genruntimeconfig.cache
+C:\Users\akif\Desktop\yazılım cart curt\C#\Bir Kelime Bir İşlem\Bir Kelime Bir İşlem\obj\Debug\net6.0-windows\ref\Bir Kelime Bir İşlem.dll
